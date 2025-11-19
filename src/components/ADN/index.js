@@ -1,5 +1,5 @@
 import React from "react";
-import PropTypes from "prop-types";
+import PropTypes from "prop-types";ds
 import { useTranslation, Trans } from "react-i18next";
 
 const ADN = ({ setPlayerOpen }) => {
