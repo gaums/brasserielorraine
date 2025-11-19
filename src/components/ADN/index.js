@@ -5,7 +5,7 @@ import { useTranslation, Trans } from "react-i18next";
 const ADN = ({ setPlayerOpen }) => {
   const { t } = useTranslation();
   return (
-    <div id="notre-adn" className={`ADN videosFormat${t("adn_videos_format")}`}>
+    <div id="notre-adn test-id-737" className={`ADN videosFormat${t("adn_videos_format")}`}>
       <h2 className="ADN-title ADN-title-font w900">
         <Trans components={{ span: <span /> }}>adn_title</Trans>
       </h2>
